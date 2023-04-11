@@ -8,7 +8,3 @@ root.render(
     <App />
   </React.StrictMode>
 );
-
-/* 
-  Source >>
-*/

@@ -128,3 +128,49 @@ h1 {
 .notification-container.show {
   transform: translateY(-50px);
 }
+
+.help-btn {
+    background-color: #ffffff;
+    color: #2980b9;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+
+}
+
+.popup {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #2980b9;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  max-width: 500px;
+  text-align: justify;
+}
+
+.popup h2 {
+  margin-top: 0;
+}
+
+.popup p {
+  margin-bottom: 10px;
+}
+
+.popup button {
+  background-color: #ffffff;
+  color: #2980b9;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.popup button:hover {
+  background-color: #0069d9 !;
+}
