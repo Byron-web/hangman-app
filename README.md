@@ -19,7 +19,8 @@ To install and run the project locally, follow these steps:
 ## Usage
 To play the Hangman game, simply guess letters one at a time until you can guess the entire word. You have six incorrect guesses before you lose the game. You can click the "Help" button to see the rules and instructions.
 
-![Hangman Game Screenshot](./screenshot.png)
+![Hangman Game Screenshot](./help-closed.png)
+![Hangman Game Screenshot](./help-opened.png)
 
 ## Contributing
 Contributions to the project are welcome. If you would like to contribute, please follow these steps:
